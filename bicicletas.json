@@ -1,0 +1,50 @@
+[
+    {
+      "Id": 1,
+      "marca": "Fierce",
+      "modelo": "FM18SI29AM211",
+      "rodado": 29,
+      "anio_fabricacion": 2021,
+      "color": "Negro",
+      "peso_kg": 15,
+      "tipo": "Montañera",
+      "precio": 1200,
+      "vendida": false
+    },
+    {
+      "Id": 2,
+      "marca": "Shifter",
+      "modelo": "FM18F29AM210",
+      "rodado": 29,
+      "anio_fabricacion": 2022,
+      "color": "Amarillo",
+      "peso_kg": 16,
+      "tipo": "Montañera",
+      "precio": 1300,
+      "vendida": true
+    },
+    {
+      "Id": 3,
+      "marca": "Olmo",
+      "modelo": "Regal",
+      "rodado": 26,
+      "anio_fabricacion": 2020,
+      "color": "Celeste",
+      "peso_kg": 13,
+      "tipo": "Paseo",
+      "precio": 800,
+      "vendida": false
+    },
+    {
+      "Id": 4,
+      "marca": "Battle",
+      "modelo": "Sunshine",
+      "rodado": 28,
+      "anio_fabricacion": 2021,
+      "color": "Rojo",
+      "peso_kg": 17,
+      "tipo": "Retro",
+      "precio": 950,
+      "vendida": false
+    }
+]
